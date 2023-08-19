@@ -1,5 +1,5 @@
 # SmartPhone Website
-https://lamp.computerstudi.es/~JiHee200521364/SmartPhone/
+https://jiheerhou.netlify.app/SmartPhone/index.html
 
 
 ![SmartPhone](https://github.com/JiheeRhou/Web_SmartPhone/assets/113075825/bebc683b-8e90-476d-864c-051edcbc80d8)
